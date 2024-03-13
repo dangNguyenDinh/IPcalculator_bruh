@@ -1,0 +1,56 @@
+IP: 1.2.3.4/32
+Subnet mask: 255.255.255.255
+Broadcast: 1.2.3.4
+Network address: 1.2.3.4
+First address: 1.2.3.5
+Last address: 1.2.3.3
+__________________________
+IP: 1.2.3.4/32
+Subnet mask: 255.255.255.255
+Broadcast: 1.2.3.4
+Network address: 1.2.3.4
+First address: 1.2.3.5
+Last address: 1.2.3.3
+__________________________
+IP: 1.2.3.4/32
+Subnet mask: 255.255.255.255
+Broadcast: 1.2.3.4
+Network address: 1.2.3.4
+First address: 1.2.3.5
+Last address: 1.2.3.3
+__________________________
+IP: 1.2.3.4/32
+Subnet mask: 255.255.255.255
+Broadcast: 1.2.3.4
+Network address: 1.2.3.4
+First address: 1.2.3.5
+Last address: 1.2.3.3
+__________________________
+IP: 1.2.3.4/32
+Subnet mask: 255.255.255.255
+Broadcast: 1.2.3.4
+Network address: 1.2.3.4
+First address: 1.2.3.5
+Last address: 1.2.3.3
+__________________________
+IP: 1.2.3.4/32
+Subnet mask: 255.255.255.255
+Broadcast: 1.2.3.4
+Network address: 1.2.3.4
+First address: 1.2.3.5
+Last address: 1.2.3.3
+__________________________
+IP: 1.2.3.4/32
+Subnet mask: 255.255.255.255
+Broadcast: 1.2.3.4
+Network address: 1.2.3.4
+First address: 1.2.3.5
+Last address: 1.2.3.3
+__________________________
+IP: 1.2.3.4/4
+Subnet mask: 240.0.0.0
+Broadcast: 0.0.0.0
+Network address: 15.255.255.255
+First address: 0.0.0.1
+Last address: 15.255.255.254
+__________________________
